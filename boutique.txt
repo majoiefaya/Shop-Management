@@ -1,0 +1,5 @@
+Numero facture:   	4		Date facture: 	  14 juin 2003
+		Listes des achats
+Designation	Remise	prix(enDH)	quantite	Prix total
+eau			400		4	
+le montant total de la facture est:		0
