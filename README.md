@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Status-Terminé-brightgreen?style=flat-square" alt="Status"/>
 </p>
 
----
+<h3 align="center">• • •</h3>
 
 ## Fonctionnalités principales
 
@@ -31,7 +31,7 @@
 | Sauvegarde      | Fichier ou base SQLite (local)  |
 | Déploiement     | PyInstaller (exécutable .exe)   |
 
----
+<h3 align="center">• • •</h3>
 
 ## Lancer le projet localement
 
@@ -52,7 +52,7 @@ le script se trouve dans le fichier :https://github.com/majoiefaya/Shop-Manageme
 python main.py
 ```
 
----
+<h3 align="center">• • •</h3>
 
 ## Capture d’écran
 
@@ -60,7 +60,7 @@ python main.py
   <img src="https://github.com/majoiefaya/Shop-Management/blob/main/app_presentation.png?raw=true" width="600" alt="Aperçu application"/>
 </p>
 
----
+<h3 align="center">• • •</h3>
 
 ## 📦 Générer un exécutable (.exe)
 
@@ -73,14 +73,14 @@ pyinstaller --onefile --windowed main.py
 
 Le fichier `.exe` sera disponible dans le dossier `dist/`.
 
----
+<h3 align="center">• • •</h3>
 
 ## 📄 Licence
 
 Application personnelle développée par **Faya Lidao Majoie**.  
 Utilisation libre à des fins non commerciales.
 
----
+<h3 align="center">• • •</h3>
 
 ## ☕ Me soutenir
 
