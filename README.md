@@ -20,7 +20,7 @@
 - Sauvegarde automatique des données (fichiers ou base SQLite)
 - Interface claire avec formulaires, boutons, et tableaux
 
----
+<h3 align="center">• • •</h3>
 
 ## Technologies utilisées
 
